@@ -3,14 +3,14 @@ Usage of FileSystemWatcher on Powershell
 
 
 
-The first part of the code which is starting with BUILD section that, transferring your spesific document from your private path to output path.
+The first part of the code which start with BUILD section that, transfer your spesific document from your private path to output path.
 
-In the MAIN section, it is creating a sample file/folder tracker and monitoring program on the watcher path. In addition, it can declare action phases. 
-  In the MAIN part, you can see an example of REST-API job execute command with USER:PASS recognition.
+In the MAIN section, it create a sample file/folder tracking program on the watcher path. In addition, it can declare action phases. 
+  In the MAIN part, there is an example of REST-API job execute command with USER:PASS recognition.
   
-If you track the logs, you can use output-append commands to create and write your messages into log file. There is an example for this part in the code.
+If you want to track the logs, you can use output-append commands to create and write your messages into log file. There is an example for this part in the code.
 
-In the PARENT section, we are creating the parent file tracker to save parent file in any time.
+In the PARENT section, it create the parent file tracker to save parent file in any time.
 
 Here is the output usage;
 
