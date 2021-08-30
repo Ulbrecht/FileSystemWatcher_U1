@@ -25,8 +25,3 @@ C.  Output usage
   If you rename a file to TEST_MAIN.txt, it will invoke the REST-API job.
   
   Simultaneously, TEST_PARENT.txt and TEST_MAIN.txt will log to log file. 
-
-
-
-Thanks,
-UMUT CEYLAN
